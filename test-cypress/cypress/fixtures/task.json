@@ -1,0 +1,22 @@
+[ 
+    {
+        "title": "BUY BREAD",
+        "id": 1, 
+        "completed": false
+    },
+    {
+        "title": "BUY MILK",
+        "id": 2, 
+        "completed": true
+    },
+    {
+        "title": "BUY TOMATOES",
+        "id": 3, 
+        "completed": true
+    },
+    {
+        "title": "BUY POTATOES",
+        "id": 3, 
+        "completed": false
+    }
+ ]
